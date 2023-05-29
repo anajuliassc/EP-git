@@ -18,5 +18,16 @@ O Linux é um sistema operacional que possibilita a execução de programas em u
     ○ Arch
     ○ Gentoo
     ○ Fedora	
+    
+# Sistemas de arquivos
+
+ • O Linux parte do princípio de que tudo são arquivos, portanto, não existe uma partição do disco com OS instalado.
+
+ • Possui diretórios com nomes específicos que guardam funções, drivers, bibliotecas, arquivos temporários, etc.
+ 
+ • É necessário cuidado ao alterar a maioria dos diretórios. 
+ 
+ 
+
 
     
