@@ -27,7 +27,26 @@ O Linux é um sistema operacional que possibilita a execução de programas em u
  
  • É necessário cuidado ao alterar a maioria dos diretórios. 
  
+# Diretórios importantes
+
+ • /bin - arquivos binários de programas e funções básicas;
+ • /dev - arquivos acessados por drivers e aplicações para controle dos devices;
+ • /lib /lib32 e /lib64 - bibliotecas de arquivos utilizados por aplicações;
+ • /etc - armazena as configurações gerais do sistema e gerenciador de pacotes;
+ • /root - repositório do administrador;
+ • /home - arquivos e pastas pessoais de cada usuário. 
  
+# Comandos no terminal
+
+ • ls- Lista arquivos e diretórios
+ • cd- Navega por diretórios com caminho relativo ou completo
+ • sudo- Fornece permissão de administrador
+ • mkdir- Cria novos diretórios 
+ • mv- Mover e renomear arquivos e diretórios
+ • cp- Copia arquivos de determinado diretórios
+ • find- Buscar arquivos 
+ • sudo apt update- para atualizar a lista de repositórios;
+ • sudo apt install [package]- para instalar a versão mais recente.
 
 
     
