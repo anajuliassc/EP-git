@@ -25,7 +25,7 @@ O Linux é um sistema operacional que possibilita a execução de programas em u
 
  • Possui diretórios com nomes específicos que guardam funções, drivers, bibliotecas, arquivos temporários, etc.
  
- • É necessário cuidado ao alterar a maioria dos diretórios. 
+ • É impoortante ter cuidado ao alterar a maioria dos diretórios. 
  
 # Diretórios importantes
 
