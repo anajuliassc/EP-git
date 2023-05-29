@@ -27,7 +27,7 @@ O Linux é um sistema operacional que possibilita a execução de programas em u
  
  • É importante ter cuidado ao alterar a maioria dos diretórios. 
  
-# Diretórios importantes
+# :bulb: Diretórios importantes
 
  • /bin - arquivos binários de programas e funções básicas;
  
